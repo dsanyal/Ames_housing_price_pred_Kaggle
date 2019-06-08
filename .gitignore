@@ -1,0 +1,5 @@
+*.csv
+model-Copy1.ipynb
+catboost_info/
+.DS_Store
+.ipynb_checkpoints/
